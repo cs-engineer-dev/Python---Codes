@@ -1,9 +1,13 @@
 #print("Hello Chai....!")
 
+#Variables is reserve memory location that stores a value, worlks like a container box.
+
 #Strings
-f_name = "Aniket"
+name = "Aniket"
+print("My name is",name,"Prakash")
+print("Welcome",name)
+
 drink = "chai"
-print(f"Hello {f_name}")
 print(f"You like {drink}")
 
 #Integer
